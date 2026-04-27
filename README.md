@@ -1,49 +1,69 @@
 # Hamza Khan
 
-I am a public administration, policy, and data analytics professional with graduate training across public administration, sociology, and infrastructure systems. My work sits at the intersection of governance, program analysis, infrastructure, and data-to-insight translation.
+Public administration, policy, and data analytics professional with graduate training in engineering, sociology, and public administration across Hong Kong, India, and the United States.
 
-I use tools such as Python, R, SQL, Excel, Power BI, Tableau, QGIS, and Stata to analyze public policy and development problems, build reproducible workflows, and communicate findings clearly for decision-making.
+I work at the intersection of governance, infrastructure systems, program analysis, and data-to-insight translation. My projects combine research synthesis, quantitative analysis, geospatial mapping, policy analysis, and implementation-focused recommendations.
 
 ## Featured Projects
 
-### Energy Insecurity in U.S. Households  
+### Energy Insecurity in U.S. Households
+
 Repository: [policy-data-insight](https://github.com/hamzakhan2507/policy-data-insight)  
 Dashboard: [Streamlit App](https://dashboardapppy-birkbduyuwrxwegphddq4v.streamlit.app/)
 
-Analyzed household energy insecurity using RECS 2020 data, with a focus on income, race, regional disparities, and disconnection notices. The project includes Python-based cleaning and visualization, GeoPandas choropleths, QGIS maps, an R ordered logistic regression, and an interactive Streamlit dashboard.
+Analyzed household energy insecurity in the United States using RECS 2020 data, with a focus on income, race, census-region disparities, unsafe temperatures, and disconnection notices. Built a public-facing Streamlit dashboard, produced Python and GeoPandas visualizations, created QGIS choropleth maps, and conducted ordered logistic regression in R.
 
 Tools: Python, Streamlit, R, QGIS, GeoPandas, Excel
 
-### Siraj Services Curriculum Review  
-A policy and program analysis project conducted for the Near East Foundation, focused on strengthening entrepreneurship training for micro- and nano-entrepreneurs in fragile settings.
+### Near East Foundation Siraj Services Curriculum Review
 
-The work included curriculum review, skill mapping, research synthesis, and recommendations related to future-ready skills, digital capability, market access, and green entrepreneurship.
+Assessed the Near East Foundation's Siraj Services entrepreneurship curriculum for nano and micro entrepreneurs in fragile settings. Mapped skills and technology trends, identified curriculum and implementation gaps, and developed recommendations to strengthen training relevance, digital readiness, and market alignment.
 
-Tools and methods: Literature review, curriculum analysis, skills mapping, policy/program recommendations
+Methods: Curriculum analysis, literature review, program design, skills mapping, implementation recommendations
 
-### Mid-Day Meal Scheme Program Evaluation  
-A public policy evaluation project focused on school feeding, education outcomes, nutrition, implementation challenges, and service delivery.
+### Assistive Technology and Disability Policy Research
 
-The project reflects my interest in governance, public service delivery, and evidence-based program improvement in development contexts.
+Research federal and state policies related to assistive technology, disability rights, Medicaid waivers, ADA enforcement, service access, and state-level assistive technology systems. Convert legislation, agency guidance, and case evidence into implementation-focused policy recommendations.
 
-Tools and methods: Program evaluation, policy analysis, implementation analysis, evidence synthesis
+Methods: Policy research, legal and regulatory synthesis, case evidence review, Medicaid and ADA analysis
 
-### Climate and Infrastructure Projects  
-Selected work includes a carbon management plan at HKUST, environmental risk assessment, contaminated land analysis, and infrastructure-focused planning and analysis.
+### Public Policy Data and Case Development
 
-These projects connect my civil infrastructure background with sustainability, public policy, and applied environmental analysis.
+Supported the development of more than 90 teaching cases and simulations focused on conflict resolution and collaboration. Collected, cleaned, and analyzed 18 years of qualitative data while maintaining project databases and supporting publication-quality teaching and research outputs.
 
-Tools and methods: Environmental assessment, carbon management, infrastructure analysis, policy research
+Methods: Qualitative data management, database maintenance, research synthesis, teaching case development
+
+### Infrastructure, Climate, and Environmental Analysis
+
+Selected work includes soil and groundwater contamination analysis for the 87-hectare Lok Ma Chau Loop development site, remediation strategy assessment, sustainable infrastructure research, carbon-management work, and civil infrastructure analysis.
+
+Methods: Environmental assessment, infrastructure analysis, contamination review, remediation planning, carbon management
+
+### Business Strategy and Market Research
+
+Co-founded A.H.A., a for-profit social enterprise, and supported business advisory work through market and policy research, strategic growth planning, partnership development, and procurement-oriented analysis. One e-commerce initiative generated nearly INR 1 million in monthly revenue.
+
+Methods: Market research, strategy, business analysis, stakeholder engagement, growth planning
 
 ## Technical Skills
 
-Python | R | SQL | Excel | Power BI | Tableau | QGIS | Stata | Access | Streamlit | GeoPandas
+Languages: Python, R, SQL, C++  
+Analytics and visualization: Excel, Power Query, Power Pivot, Solver, Stata, Tableau, Power BI, QGIS, Streamlit, GeoPandas  
+Research and methods: Regression, logit, probit, ordered logit, multinomial logit, ANOVA, conjoint analysis, clustering, factor analysis, decision trees  
+Other tools: Access, AutoCAD, Qualtrics, GitHub, Postman, Google Analytics, Google Ads
 
 ## Areas of Interest
 
-Public policy analysis | Program evaluation | Governance | International development | Infrastructure and urban systems | Climate and energy policy | Monitoring, evaluation, and learning | Data analytics for public decision-making
+Public policy analysis | Program evaluation | Governance | International development | Infrastructure and urban systems | Climate and energy policy | Disability policy | Monitoring, evaluation, and learning | Data analytics for public decision-making
+
+## Education
+
+Master of Public Administration, Maxwell School of Citizenship and Public Affairs, Syracuse University  
+Master of Arts in Sociology, Indira Gandhi National Open University  
+Master of Science in Civil Infrastructural Engineering and Management, HKUST  
+Bachelor of Engineering in Civil Engineering, Manipal Institute of Technology
 
 ## Contact
 
-LinkedIn: www.linkedin.com/in/hamza0khan  
+LinkedIn: [linkedin.com/in/hamza0khan](https://www.linkedin.com/in/hamza0khan)  
 Email: hamzakhan2507@gmail.com
