@@ -25,11 +25,29 @@ The project used Open Data Syracuse vacant property data and U.S. Census ACS dat
 
 Tools: Python, Pandas, Census API, QGIS, GIS mapping, open data analysis
 
-### Near East Foundation Siraj Services Curriculum Review
+### Syracuse Child Poverty Analysis
 
-Assessed the Near East Foundation's Siraj Services entrepreneurship curriculum for nano and micro entrepreneurs in fragile settings. Mapped skills and technology trends, identified curriculum and implementation gaps, and developed recommendations to strengthen training relevance, digital readiness, and market alignment.
+Repository: [syracuse-child-poverty-analysis](https://github.com/hamzakhan2507/syracuse-child-poverty-analysis)
 
-Methods: Curriculum analysis, literature review, program design, skills mapping, implementation recommendations
+Completed a Python and GIS-based policy analysis project examining child poverty across Syracuse census tracts. Compared child poverty, adult poverty, gender differences in child poverty, and poverty by educational attainment using Census poverty data and Syracuse tract geography.
+
+Tools: Python, GeoPandas, Pandas, Matplotlib, GIS mapping, policy analysis
+
+### Near East Foundation Siraj Curriculum Review
+
+Repository: [siraj-curriculum-review](https://github.com/hamzakhan2507/siraj-curriculum-review)
+
+Assessed the Near East Foundation’s Siraj Center entrepreneurship curriculum for micro- and nano-entrepreneurs in fragile and displacement-affected settings. Mapped global trends and future-ready skills, identified curriculum and implementation gaps, and developed recommendations across digital inclusion, green economy, women’s empowerment, economic resilience, and mental health and well-being.
+
+Methods: Curriculum analysis, literature review, program design, skills mapping, inclusive delivery design, implementation recommendations
+
+### Mid-Day Meal Scheme Attendance Evaluation
+
+Repository: [mdms-attendance-evaluation](https://github.com/hamzakhan2507/mdms-attendance-evaluation)
+
+Designed a mixed-methods evaluation of India’s Mid-Day Meal Scheme, focusing on its effect on primary-school attendance in government and government-aided schools. Developed a theory of change, logic model, two-way fixed-effects evaluation design, qualitative interview plan, dissemination strategy, and fall-back risk plan.
+
+Methods: Program evaluation, mixed-methods design, theory of change, two-way fixed effects, education policy analysis
 
 ### Assistive Technology and Disability Policy Research
 
