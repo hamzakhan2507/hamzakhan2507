@@ -15,6 +15,16 @@ Analyzed household energy insecurity in the United States using RECS 2020 data, 
 
 Tools: Python, Streamlit, R, QGIS, GeoPandas, Excel
 
+### Open Data Syracuse 2024: Vacant Properties and Demographic Disparities
+
+Repository: [open-data-syracuse-2024](https://github.com/hamzakhan2507/open-data-syracuse-2024)
+
+Completed a Python and GIS-based civic data project for Open Data Syracuse 2024, analyzing the spatial concentration of vacant residential properties in Syracuse, New York, and comparing vacancy patterns with demographic and socioeconomic indicators.
+
+The project used Open Data Syracuse vacant property data and U.S. Census ACS data to examine relationships between property vacancy, African American population, people of color population, median income, and median household income. The analysis found that more than half of vacant residential properties were concentrated in ZIP codes 13205 and 13204.
+
+Tools: Python, Pandas, Census API, QGIS, GIS mapping, open data analysis
+
 ### Near East Foundation Siraj Services Curriculum Review
 
 Assessed the Near East Foundation's Siraj Services entrepreneurship curriculum for nano and micro entrepreneurs in fragile settings. Mapped skills and technology trends, identified curriculum and implementation gaps, and developed recommendations to strengthen training relevance, digital readiness, and market alignment.
