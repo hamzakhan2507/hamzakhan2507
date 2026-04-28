@@ -15,6 +15,14 @@ Analyzed household energy insecurity in the United States using RECS 2020 data, 
 
 Tools: Python, Streamlit, R, QGIS, GeoPandas, Excel
 
+### Syracuse Child Poverty Analysis
+
+Repository: [syracuse-child-poverty-analysis](https://github.com/hamzakhan2507/syracuse-child-poverty-analysis)
+
+Completed a Python and GIS-based policy analysis project examining child poverty across Syracuse census tracts. Compared child poverty, adult poverty, gender differences in child poverty, and poverty by educational attainment using Census poverty data and Syracuse tract geography.
+
+Tools: Python, GeoPandas, Pandas, Matplotlib, GIS mapping, policy analysis
+
 ### Open Data Syracuse 2024: Vacant Properties and Demographic Disparities
 
 Repository: [open-data-syracuse-2024](https://github.com/hamzakhan2507/open-data-syracuse-2024)
@@ -24,14 +32,6 @@ Completed a Python and GIS-based civic data project for Open Data Syracuse 2024,
 The project used Open Data Syracuse vacant property data and U.S. Census ACS data to examine relationships between property vacancy, African American population, people of color population, median income, and median household income. The analysis found that more than half of vacant residential properties were concentrated in ZIP codes 13205 and 13204.
 
 Tools: Python, Pandas, Census API, QGIS, GIS mapping, open data analysis
-
-### Syracuse Child Poverty Analysis
-
-Repository: [syracuse-child-poverty-analysis](https://github.com/hamzakhan2507/syracuse-child-poverty-analysis)
-
-Completed a Python and GIS-based policy analysis project examining child poverty across Syracuse census tracts. Compared child poverty, adult poverty, gender differences in child poverty, and poverty by educational attainment using Census poverty data and Syracuse tract geography.
-
-Tools: Python, GeoPandas, Pandas, Matplotlib, GIS mapping, policy analysis
 
 ### Near East Foundation Siraj Curriculum Review
 
