@@ -8,7 +8,7 @@ I work at the intersection of governance, infrastructure systems, program analys
 
 ### Energy Insecurity in U.S. Households
 
-Repository: [energy-insecurity-recs-2020](https://github.com/hamzakhan2507/energy-insecurity-recs-2020)
+Repository: [energy-insecurity-recs-2020](https://github.com/hamzakhan2507/energy-insecurity-recs-2020)  
 Dashboard: [Streamlit App](https://dashboardapppy-birkbduyuwrxwegphddq4v.streamlit.app/)
 
 Analyzed household energy insecurity in the United States using RECS 2020 data, with a focus on income, race, census-region disparities, unsafe temperatures, and disconnection notices. Built a public-facing Streamlit dashboard, produced Python and GeoPandas visualizations, created QGIS choropleth maps, and conducted ordered logistic regression in R.
